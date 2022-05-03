@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
-project(KMP)
+project(Manacher)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(KMP main.cpp)
+add_executable(Manacher main.cpp)
